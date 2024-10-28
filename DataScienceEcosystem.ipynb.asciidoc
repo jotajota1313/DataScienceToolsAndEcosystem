@@ -1,0 +1,37 @@
++*In[1]:*+
+[source, ipython3]
+----
+check = (3*4)+5
+print(check)
+#This a simple arithmetic expression to mutiply then add integers
+----
+
+
++*Out[1]:*+
+----
+17
+----
+
+
++*In[3]:*+
+[source, ipython3]
+----
+hours = 200 / 60
+print(hours, "Hours")
+# This will convert 200 minutes to hours by diving by 60
+----
+
+
++*Out[3]:*+
+----
+3.3333333333333335 Hours
+----
+
+
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
